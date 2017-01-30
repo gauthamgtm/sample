@@ -1,2 +1,2 @@
 # sample
-I love :coffee: :pizza: :beer: 
+I love :coffee: :pizza: :beer: :bike:
